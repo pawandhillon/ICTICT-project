@@ -1,0 +1,404 @@
+# Copyright (C) 2014 SB Login
+# This file is distributed under the same license as the SB Login package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SB Login 2.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sb-login\n"
+"POT-Creation-Date: 2014-05-23 08:18:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-05-23 15:24+0600\n"
+"Last-Translator: Fida Al Hasan <fidaalhasan@gmail.com>\n"
+"Language-Team: Web Care Zone <fidaalhasan@gmail.com>\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: Bengali\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: admin/server_info.php:7
+msgid "Not set"
+msgstr ""
+
+#: admin/server_info.php:9 admin/server_info.php:11
+msgid "On"
+msgstr ""
+
+#: admin/server_info.php:10 admin/server_info.php:12
+msgid "Off"
+msgstr ""
+
+#: admin/server_info.php:14 admin/server_info.php:16 admin/server_info.php:18
+#: admin/server_info.php:20 admin/server_info.php:22
+msgid "N/A"
+msgstr ""
+
+#: admin/server_info.php:21
+msgid " MByte"
+msgstr ""
+
+#: admin/server_info.php:23 admin/server_info.php:25 admin/server_info.php:27
+msgid "Yes"
+msgstr ""
+
+#: admin/server_info.php:24 admin/server_info.php:26 admin/server_info.php:28
+msgid "No"
+msgstr ""
+
+#: admin/server_info.php:31
+msgid "Operating System"
+msgstr ""
+
+#: admin/server_info.php:32
+msgid "Server"
+msgstr ""
+
+#: admin/server_info.php:33
+msgid "Memory usage"
+msgstr ""
+
+#: admin/server_info.php:34
+msgid "MYSQL Version"
+msgstr ""
+
+#: admin/server_info.php:35
+msgid "SQL Mode"
+msgstr ""
+
+#: admin/server_info.php:36
+msgid "PHP Version"
+msgstr ""
+
+#: admin/server_info.php:37
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: admin/server_info.php:38
+msgid "PHP Allow URL fopen"
+msgstr ""
+
+#: admin/server_info.php:39
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: admin/server_info.php:40
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: admin/server_info.php:41
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: admin/server_info.php:42
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: admin/server_info.php:43
+msgid "PHP Exif support"
+msgstr ""
+
+#: admin/server_info.php:44
+msgid "PHP IPTC support"
+msgstr ""
+
+#: admin/server_info.php:45
+msgid "PHP XML support"
+msgstr ""
+
+#: admin/settings.php:4
+msgid "Settings saved."
+msgstr ""
+
+#: sb-login.php:119
+msgid ""
+"An Ajax powered Login &amp; Register widget. See the ReadMe for "
+"customisation instructions."
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (SB Login 2.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: sb-login.php:120
+msgid "SB Login"
+msgstr ""
+
+#: sb-login.php:231 sb-login.php:286
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>ব্যার্থ</strong>: দয়াকরে ইউজারনেম দিন"
+
+#: sb-login.php:234
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr "<strong>ব্যার্থ</strong>: দয়াকরে পাসওয়ার্ড দিন"
+
+#: sb-login.php:288
+msgid ""
+"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+"username."
+msgstr ""
+"<strong>ব্যার্থ</strong>: এই ইউজারনেমটি বৈধ নয়। দয়াকরে একটি বৈধ ইউজারনেম দিন"
+
+#: sb-login.php:290
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>ব্যার্থ</strong>: এই ইউজারনেম পূর্বেই রেজিস্টারড, দয়াকরে অন্য একটি বাছাই "
+"করুন"
+
+#: sb-login.php:294
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>ব্যার্থ</strong>: দয়াকরে ইমেইলটি লিখুন"
+
+#: sb-login.php:296
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>ব্যার্থ</strong>: এই ইমেইলটি সঠিক নয়"
+
+#: sb-login.php:298
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>ব্যার্থ</strong>: এই ইমেইল পূর্বেই রেজিস্টারড, দয়াকরে অন্য একটি ইমেইল দিন"
+
+#: sb-login.php:302
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>ব্যার্থ</strong>: দয়াকরে একটি পাসওয়ার্ড দিন"
+
+#: sb-login.php:304
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>ব্যার্থ</strong>: পাসওয়ার্ড মিলেনি"
+
+#: sb-login.php:314
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>ব্যার্থ</strong>: আপনাকে রেজিস্টারড করা গেল না... দয়াকরে সাইট এডমিন এর "
+"সাথে যোগাযোগ করুন"
+
+#: sb-login.php:348
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>ব্যার্থ</strong>: একটি ইউজারনেম বা ইমেইল দিন"
+
+#: sb-login.php:352
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>ব্যার্থ</strong>: এই ইমেইল দিয়ে কোন ইউজার রেজিস্টারড নেই"
+
+#: sb-login.php:360
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>ব্যার্থ</strong>: অবৈধ ইউজারনেম বা ইমেইল"
+
+#: sb-login.php:381
+msgid "Password reset is not allowed for this user"
+msgstr "এই ব্যাবহারকারীর জন্য পাসওয়ার্ড রিসেট বৈধ নয়"
+
+#: sb-login.php:404
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: sb-login.php:406
+msgid "Username: %s"
+msgstr ""
+
+#: sb-login.php:407
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: sb-login.php:413
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: sb-login.php:421
+msgid "Check your e-mail for the confirmation link."
+msgstr "নিশ্চিত করন লিঙ্ক এর জন্য আপনার ইমেইল দেখুন"
+
+#: sbl_admin.php:11
+msgid "How to Use | SB Login"
+msgstr ""
+
+#: sbl_admin.php:11
+msgid "How to Use"
+msgstr ""
+
+#: sbl_admin.php:39 sbl_admin.php:47 sbl_admin.php:54
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: template/logged-in.php:9
+msgid "Welcome"
+msgstr "স্বাগতম"
+
+#: template/logged-in.php:15
+msgid "You logged in on "
+msgstr "আপনি লগিন করেছেন"
+
+#: template/logged-in.php:26
+msgid "After logging in there has been "
+msgid_plural "After logging in there have been "
+msgstr[0] "লগিন করার পর থেকে"
+msgstr[1] "লগিন করার পর থেকে"
+
+#: template/logged-in.php:28
+msgid "new post and "
+msgid_plural "new posts and "
+msgstr[0] "টি নতুন পোস্ট এবং"
+msgstr[1] "টি নতুন পোস্ট এবং"
+
+#: template/logged-in.php:30
+msgid "new comment"
+msgid_plural "new comments"
+msgstr[0] "টি নতুন মন্তব্য হয়েছে"
+msgstr[1] "টি নতুন মন্তব্য হয়েছে"
+
+#: template/logged-in.php:34
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+#: template/logged-in.php:35
+msgid "Profile"
+msgstr "প্রোফাইল"
+
+#: template/logged-in.php:38
+msgid "Log out"
+msgstr "লগআউট"
+
+#: template/logged-in.php:43
+msgid "Recently Viewed Posts"
+msgstr "সাম্প্রতিক প্রদর্শিত পোস্ট"
+
+#: template/logged-in.php:55
+msgid "You have not viewed any posts recently."
+msgstr "আপনি সাম্প্রতিক কোন পোস্ট পরিদর্শন করেননি"
+
+#: template/logged-in.php:59
+msgid "My Recent Comments"
+msgstr "আমার সাম্প্রতিক মন্তব্য"
+
+#: template/logged-in.php:79
+msgid "You have not made any comments."
+msgstr "আপনি এখনো কোন মন্তব্য করেননি"
+
+#: template/logged-in.php:85
+msgid "Your ID:"
+msgstr "আপনার আইডিঃ"
+
+#: template/logged-in.php:89
+msgid "First joined here:"
+msgstr "প্রথম এখানে যুক্ত হয়েছেনঃ"
+
+#: template/logged-in.php:93
+msgid "Total posts of yours:"
+msgstr "আপনার পোস্টের সংখ্যাঃ"
+
+#: template/logged-in.php:97
+msgid "Total comments of yours:"
+msgstr "আপনার মন্তব্য সংখ্যাঃ"
+
+#: template/logged-in.php:107
+msgid "Your level:"
+msgstr "আপনার লেভেলঃ"
+
+#: template/logged-in.php:111
+msgid "Your posts feed:"
+msgstr "আপনার পোস্টের ফীডঃ"
+
+#: template/logged-in.php:111
+msgid "Author Feed"
+msgstr "লেখকের ফীড"
+
+#: template/logged-in.php:112
+msgid "All comments feed:"
+msgstr "সকল মন্তব্যের ফীডঃ"
+
+#: template/logged-in.php:112
+msgid "Comments Feed"
+msgstr "মন্তব্য ফীড"
+
+#: template/login-form.php:15 template/register-form.php:15
+msgid "Username"
+msgstr "ইউজারনেম"
+
+#: template/login-form.php:16 template/register-form.php:17
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+#: template/login-form.php:18
+msgid "Lost Password?"
+msgstr "পাসওয়ার্ড হারিয়েগেছে?"
+
+#: template/login-form.php:19
+msgid "Login &rarr;"
+msgstr "লগিন &rarr;"
+
+#: template/lost-password-form.php:15
+msgid ""
+"Please enter your username or e-mail address. You will receive a new "
+"password via e-mail."
+msgstr "দয়াকরে আপনার ইউজারনেম বা ইমেইল দিন। আপনি একটি নতুন পাসওয়ার্ড পেয়ে যাবেন।"
+
+#: template/lost-password-form.php:17
+msgid "Username/Email"
+msgstr "ইউজারনেম/ইমেইল"
+
+#: template/lost-password-form.php:17 template/register-form.php:16
+msgid "you@yourdomain.com"
+msgstr "you@yourdomain.com"
+
+#: template/lost-password-form.php:19
+msgid "Reset Password &rarr;"
+msgstr "রিসেট পাসওয়ার্ড &rarr;"
+
+#: template/register-form.php:16
+msgid "Email"
+msgstr "ইমেইল"
+
+#: template/register-form.php:18
+msgid "Re-enter"
+msgstr "পুনরায় দিন"
+
+#: template/register-form.php:18
+msgid "Re-enter Password"
+msgstr "পুনরায় পাসওয়ার্ড দিন"
+
+#: template/register-form.php:20
+msgid "Register &rarr;"
+msgstr "রেজিস্টার &rarr;"
+
+#: template/tabs.php:10
+msgid "Activity"
+msgstr "কার্যকলাপ"
+
+#: template/tabs.php:11
+msgid "Info"
+msgstr "তথ্য"
+
+#: template/tabs.php:17
+msgid "Login"
+msgstr "লগিন"
+
+#: template/tabs.php:18
+msgid "Register"
+msgstr "রেজিস্টার"
+
+#. Plugin URI of the plugin/theme
+msgid "http://webcarezone.com/projects/sb-login.asp"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sb login widget that allows a user to login, register, reset their password, "
+"see recent activity,time , post and comment count ALL without leaving their "
+"current location! It also allow to change wordpress email form name and "
+"address."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Fida Al Hasan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://fida.webcarezone.com"
+msgstr ""
