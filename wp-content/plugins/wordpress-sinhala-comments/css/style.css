@@ -1,0 +1,49 @@
+div.sinhala_comment_wrapper  {
+	display:none;
+	margin-bottom:10px;
+}
+
+div.sinhala_comment_wrapper textarea#sinhalaCommentBox {
+	border: 1px solid #999999;	
+	height:70px;
+	display: block;
+ outline: 0 none;	
+	height:70px;
+				
+	 box-shadow: 0 0 2px rgba(0, 0, 0, 0.1), 0 0 2px 2px #F4F4F4 inset;
+	-moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1), 0 0 2px 2px #F4F4F4 inset;
+	-webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1), 0 0 2px 2px #F4F4F4 inset;
+	-ms-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1), 0 0 2px 2px #F4F4F4 inset;
+	-o-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1), 0 0 2px 2px #F4F4F4 inset;
+}
+
+div.sinhala_comment_wrapper textarea#sinhalaCommentBox:focus {
+	   -moz-transition: background-color 0.75s ease 0s;
+				-webkit-transition: background-color 0.75s ease 0s;
+				-ms-transition: background-color 0.75s ease 0s;
+				-o-transition: background-color 0.75s ease 0s;
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																
+    background-color: #EDE7FA;
+}
+
+.sinhala_comment_button {
+	width:180px !important;
+}
+
+.sinhala_comment_info {
+	color:#990000;	
+	cursor:help;
+}
+
+a.sinhala-more_info {
+	color:#33C;	
+	cursor:pointer;
+}
+
+.sinhala_comment_button {
+  margin: 5px 0 10px !important;
+}
+
+.sinhala_comment_wrapper > textarea {
+  margin-top: 7px;
+}
